@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravidu Wickramaarachchi</h1>
 <h3 align="center">I'm a Student, passionate Web Designer & Developer from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="[[https://tenor.com/view/coding-gif-18657810](https://giphy.com/gifs/media-spain-electronic-d3mm8K5DCeigO3Go)](https://github.com/rudrabarad/Gifs)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidujee19&label=Profile%20views&color=0e75b6&style=flat" alt="ravidujee19" /> </p>
 
