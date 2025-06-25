@@ -46,7 +46,6 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.h2database.com/html/main.html"><img src="https://www.vectorlogo.zone/logos/h2database/h2database-icon.svg" width="40" height="40" alt="H2 Database"/></a>
 </p>
 
 **Mobile Development:**
