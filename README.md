@@ -70,7 +70,7 @@
 <!-- ======================= GITHUB STATS & TROPHIES ======================= -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravidujee19&theme=tokyonight&row=1&column=6" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ravidujee19&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -82,7 +82,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidujee19&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+<!-- GITHUB STREAK -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravidujee19&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=ravidujee19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravidujee19&theme=tokyo-night&area=true" alt="Contribution Graph" />
+</p>
+
