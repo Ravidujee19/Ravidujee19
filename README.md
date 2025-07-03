@@ -21,9 +21,17 @@
 <!-- ======================= CONNECT WITH ME ======================= -->
 ### 📫 How to Reach Me
 
-- 📧 Email: ravijeewantha6599745@gmail.com  
-- 💼 [LinkedIn – Ravidu Wickramaarachchi](https://linkedin.com/in/ravidu-wickramaarachchi)  
-- 📱 [Instagram – @ravidujee_](https://instagram.com/ravidujee_)
+<p align="left">
+  <a href="mailto:ravijeewantha6599745@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ravidu-wickramaarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/ravidujee_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
 ---
 
