@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi 👋, I'm Ravidu Wickramaarachchi</h1>
-<h3 align="center">I'm a Student, passionate Web Designer & Developer from Sri Lanka.</h3>
+<h3 align="center">I'm a Student with a passion for Data Analysis, Data Engineering, and Software Development.</h3>
 
 <!-- ======================= PROFILE VIEWS ======================= -->
 <p align="center">
@@ -12,7 +12,7 @@
 <!-- ======================= ABOUT ME SECTION ======================= -->
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **TypeScript**
+- 🎯 I'm currently learning **Python**, along with **Pandas**, **Matplotlib**, **Seaborn**, and **TensorFlow**.
 - 💬 Ask me about **Java**, **PHP**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ravidujee19)
 
