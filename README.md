@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi 👋, I'm Ravidu Wickramaarachchi</h1>
-<h3 align="center">I'm a Student with a passion for Data Analysis, Data Engineering, and Software Development.</h3>
+<h3 align="center">Passionate student in Data, ML, AI & Software Development.</h3>
 
 <!-- ======================= PROFILE VIEWS ======================= -->
 <p align="center">
