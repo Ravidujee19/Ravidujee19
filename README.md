@@ -13,9 +13,7 @@
 ### 🌟 About Me  
 
 - 🎯 Currently learning **Python** along with **Pandas**, **Matplotlib**, **Seaborn**, and **TensorFlow**.  
-- 💬 Feel free to ask me about **Java** and **PHP**.  
-- 👨‍💻 Check out all my projects on [**GitHub**](https://github.com/ravidujee19).  
-
+- 💬 Feel free to ask me about **Java**.  
 ---
 
 <!-- ======================= CONNECT ======================= -->
